@@ -1,0 +1,25 @@
+# React
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.env.*
+
+# Java / Maven
+Backend/**/target/
+
+# Eclipse
+.metadata/
+Backend/**/.settings/
+Backend/**/.classpath
+Backend/**/.project
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
